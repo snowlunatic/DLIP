@@ -1,6 +1,6 @@
 # LAB: Gray scale Image Segmentation
 
-**Date:** 2024-Aug-21
+**Date:** 2024-04-02
 
 **Author:** Soonho Lim 21900610
 
