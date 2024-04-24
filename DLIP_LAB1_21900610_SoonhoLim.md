@@ -67,7 +67,7 @@ The image shows 20 different kinds of bolt and nuts oriented in different ways.
 
 ​	Mentioned earlier, the median filter is applied for the salt noises. The figure below shows the difference before and after the filter is applied. 
 
-![image-20240402022411826](C:\Users\joshu\AppData\Roaming\Typora\typora-user-images\image-20240402022411826.png)
+![image](https://github.com/snowlunatic/image/assets/115797946/a420c431-1200-45ac-aa50-b3aece0765a2)
 
 
 
